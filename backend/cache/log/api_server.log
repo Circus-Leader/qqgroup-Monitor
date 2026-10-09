@@ -1,0 +1,211 @@
+2025-12-29 18:32:08,581 - api_server - ERROR - 获取二维码失败: a bytes-like object is required, not 'str'
+2025-12-29 18:32:10,260 - api_server - ERROR - 获取二维码失败: a bytes-like object is required, not 'str'
+2025-12-29 18:43:46,922 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2025-12-29 19:06:19,098 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2025-12-29 19:30:32,515 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2025-12-29 19:50:05,500 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2025-12-29 19:55:09,058 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2025-12-29 20:21:12,923 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2025-12-29 20:27:37,092 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2025-12-30 08:16:03,371 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2025-12-30 09:00:56,590 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2025-12-30 10:03:04,775 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2025-12-30 10:03:04,783 - api_server - ERROR - 获取任务列表失败: 'ExportTask' object has no attribute 'task_id'
+2025-12-30 10:03:16,549 - api_server - ERROR - 获取任务列表失败: 'ExportTask' object has no attribute 'task_id'
+2025-12-30 10:08:56,749 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2025-12-30 10:08:56,758 - api_server - ERROR - 获取任务列表失败: 'ExportTask' object has no attribute 'name'
+2025-12-30 10:19:51,496 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2025-12-30 10:20:10,135 - api_server - ERROR - 删除任务失败: [TASK_NOT_FOUND] 任务不存在: unknown
+2025-12-30 10:20:18,802 - api_server - ERROR - 删除任务失败: [TASK_NOT_FOUND] 任务不存在: unknown
+2025-12-30 11:27:28,633 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2025-12-30 16:23:54,728 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2025-12-30 16:23:59,637 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2025-12-30 16:27:00,454 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2025-12-30 16:28:48,543 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2025-12-30 16:31:06,937 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2025-12-30 16:36:03,240 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2025-12-30 16:38:03,363 - api_server - ERROR - 删除任务失败: [TASK_NOT_FOUND] 任务不存在: unknown
+2025-12-31 10:55:54,392 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2025-12-31 10:56:00,879 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2025-12-31 10:56:08,031 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2025-12-31 11:00:42,357 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2025-12-31 11:00:53,665 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2025-12-31 11:00:57,696 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2025-12-31 11:01:01,760 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2025-12-31 11:01:12,339 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2025-12-31 11:01:20,682 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2025-12-31 11:01:26,072 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2025-12-31 14:40:37,568 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-01 10:30:10,377 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-01 12:32:06,954 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-01 12:35:24,316 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-01 12:38:00,688 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-01 13:12:30,257 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-01 13:13:12,379 - api_server - ERROR - 预览导出失败: 'ExportTask' object has no attribute 'task_id'
+2026-01-01 13:13:16,152 - api_server - ERROR - 预览导出失败: 'ExportTask' object has no attribute 'task_id'
+2026-01-01 13:13:18,208 - api_server - ERROR - 预览导出失败: 'ExportTask' object has no attribute 'task_id'
+2026-01-01 13:13:50,749 - api_server - ERROR - 获取好友列表失败: [NETWORK_ERROR] 请求超时: http://localhost:40653/api/friends
+2026-01-01 13:13:52,783 - api_server - ERROR - 预览导出失败: 'ExportTask' object has no attribute 'task_id'
+2026-01-01 13:13:52,793 - api_server - ERROR - 预览导出失败: 'ExportTask' object has no attribute 'task_id'
+2026-01-01 13:13:52,804 - api_server - ERROR - 预览导出失败: 'ExportTask' object has no attribute 'task_id'
+2026-01-01 14:44:16,616 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-01 16:27:42,719 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-01 16:28:19,413 - api_server - ERROR - 预览导出失败: 'ExportTask' object has no attribute 'task_id'
+2026-01-01 16:38:04,019 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-01 16:44:47,189 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-01 17:59:40,335 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-01 20:39:24,723 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-01 21:15:45,788 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-01 21:16:00,496 - api_server - ERROR - 预览导出失败: 'ExportTask' object has no attribute 'task_id'
+2026-01-02 10:23:37,164 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-02 10:25:48,647 - api_server - WARNING - 删除任务原始文件失败: [NOT_ZIP_EXPORT] 该任务不是ZIP导出，无需删除原始文件
+2026-01-02 10:25:49,020 - api_server - WARNING - 删除任务原始文件失败: [TASK_NOT_FOUND] 任务不存在: unknown
+2026-01-02 10:25:49,029 - api_server - ERROR - 删除任务失败: [TASK_NOT_FOUND] 任务不存在: unknown
+2026-01-02 11:09:46,325 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-02 11:17:23,958 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-02 14:44:33,671 - api_server - ERROR - 获取任务列表失败: [NETWORK_ERROR] 无法连接到服务器: http://localhost:40653
+2026-01-02 14:44:37,730 - api_server - ERROR - 获取群组列表失败: [NETWORK_ERROR] 无法连接到服务器: http://localhost:40653
+2026-01-02 14:44:41,781 - api_server - ERROR - 获取好友列表失败: [NETWORK_ERROR] 无法连接到服务器: http://localhost:40653
+2026-01-02 15:01:22,152 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-02 15:12:56,688 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-02 15:17:12,166 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-02 15:18:41,532 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-02 18:56:19,530 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-02 19:04:21,269 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-02 19:04:48,965 - api_server - ERROR - 导出聊天记录失败: ExportOptions.__init__() got an unexpected keyword argument 'download_media'
+2026-01-02 19:11:13,769 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-02 19:11:30,663 - api_server - ERROR - 导出聊天记录失败: MessagesAPI.export() got an unexpected keyword argument 'days'
+2026-01-02 19:45:43,458 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-02 19:50:29,845 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-02 19:54:02,074 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-02 21:31:23,036 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-02 21:37:40,932 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-02 21:37:47,992 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-01-02 21:37:49,492 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-01-02 21:49:37,956 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-02 21:49:45,101 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-01-02 21:49:46,944 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-01-02 23:05:59,917 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-01-02 23:06:06,410 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-01-02 23:06:13,417 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-01-02 23:06:18,954 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-02 23:09:46,940 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-01-02 23:09:48,683 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-01-03 13:12:43,972 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-01-03 13:12:50,446 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-01-03 13:12:57,708 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-01-03 13:13:05,693 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-01-03 13:13:13,185 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-03 15:39:59,399 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-01-03 15:40:05,898 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-01-03 15:40:11,340 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-03 16:22:24,745 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-03 16:22:25,684 - api_server - INFO - 开始导出头像到: D:\2-repo\qqgroup-msganalyzer\backend\..\export\exported_avatars
+2026-01-03 16:23:38,775 - api_server - INFO - 好友头像导出完成: 成功 185, 失败 0
+2026-01-03 16:23:58,486 - api_server - INFO - 群组头像导出完成: 成功 48, 失败 0
+2026-01-03 16:24:26,486 - api_server - INFO - 开始导出头像到: D:\2-repo\qqgroup-msganalyzer\backend\..\export\exported_avatars
+2026-01-04 08:21:02,175 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-01-04 08:21:08,660 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-01-04 08:21:15,626 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-01-04 08:21:37,776 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-04 08:21:39,226 - api_server - INFO - 开始导出头像到: D:\2-repo\qqgroup-msganalyzer\backend\..\export\exported_avatars
+2026-01-13 08:23:19,565 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-01-13 08:23:26,039 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-01-13 08:23:30,989 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-13 08:23:30,997 - api_server - ERROR - 获取任务列表失败: [AUTH_ERROR] 访问被拒绝，令牌无效或已过期
+2026-01-13 08:23:31,004 - api_server - ERROR - 获取群组列表失败: [AUTH_ERROR] 访问被拒绝，令牌无效或已过期
+2026-01-13 08:23:31,009 - api_server - ERROR - 获取好友列表失败: [AUTH_ERROR] 访问被拒绝，令牌无效或已过期
+2026-01-13 08:36:01,325 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-13 08:41:25,147 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-01-13 08:41:33,186 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-01-13 08:46:27,834 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-01-13 08:46:32,821 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-01-13 08:50:07,182 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 08:50:08,973 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 20:59:13,884 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-02-11 20:59:20,358 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-02-11 20:59:27,332 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-02-11 20:59:33,359 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-02-11 20:59:33,389 - api_server - ERROR - 获取任务列表失败: [AUTH_ERROR] 访问被拒绝，令牌无效或已过期
+2026-02-11 20:59:33,413 - api_server - ERROR - 获取群组列表失败: [AUTH_ERROR] 访问被拒绝，令牌无效或已过期
+2026-02-11 20:59:33,419 - api_server - ERROR - 获取好友列表失败: [AUTH_ERROR] 访问被拒绝，令牌无效或已过期
+2026-02-11 20:59:35,779 - api_server - ERROR - 获取群组列表失败: [AUTH_ERROR] 访问被拒绝，令牌无效或已过期
+2026-02-16 11:28:01,381 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-02-16 11:28:07,876 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-02-16 11:28:12,831 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-02-16 11:34:55,033 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 11:35:10,546 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 12:11:28,199 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-16 12:11:29,507 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 10:18:42,637 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-02-20 10:18:49,981 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-02-20 10:18:54,947 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-02-20 10:33:13,019 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 10:33:14,971 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 10:34:05,437 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 10:34:08,555 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 10:41:08,249 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 10:41:09,623 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 11:02:03,547 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-02-20 11:02:13,061 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 11:02:35,675 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 11:04:40,748 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 11:04:42,907 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 13:53:14,091 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-02-20 13:53:20,573 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-02-20 13:53:25,502 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-02-20 13:56:43,893 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 13:56:47,374 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 14:49:03,779 - api_server - ERROR - 获取任务列表失败: [NETWORK_ERROR] 无法连接到服务器: http://localhost:40653
+2026-02-20 14:49:07,878 - api_server - ERROR - 获取群组列表失败: [NETWORK_ERROR] 无法连接到服务器: http://localhost:40653
+2026-02-20 14:49:11,971 - api_server - ERROR - 获取好友列表失败: [NETWORK_ERROR] 无法连接到服务器: http://localhost:40653
+2026-02-20 14:49:16,098 - api_server - ERROR - 获取任务列表失败: [NETWORK_ERROR] 无法连接到服务器: http://localhost:40653
+2026-02-20 14:49:20,178 - api_server - ERROR - 获取群组列表失败: [NETWORK_ERROR] 无法连接到服务器: http://localhost:40653
+2026-02-20 14:49:24,268 - api_server - ERROR - 获取好友列表失败: [NETWORK_ERROR] 无法连接到服务器: http://localhost:40653
+2026-02-20 20:03:10,307 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-02-20 20:03:27,195 - api_server - WARNING - 删除任务原始文件失败: [NOT_ZIP_EXPORT] 该任务不是ZIP导出，无需删除原始文件
+2026-02-20 20:03:29,626 - api_server - WARNING - 删除任务原始文件失败: [NOT_ZIP_EXPORT] 该任务不是ZIP导出，无需删除原始文件
+2026-02-20 20:03:32,120 - api_server - WARNING - 删除任务原始文件失败: [NOT_ZIP_EXPORT] 该任务不是ZIP导出，无需删除原始文件
+2026-02-20 20:03:33,986 - api_server - WARNING - 删除任务原始文件失败: [NOT_ZIP_EXPORT] 该任务不是ZIP导出，无需删除原始文件
+2026-02-20 20:03:36,477 - api_server - WARNING - 删除任务原始文件失败: [NOT_ZIP_EXPORT] 该任务不是ZIP导出，无需删除原始文件
+2026-02-20 20:30:59,932 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-02-20 20:31:20,345 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 20:31:22,232 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 20:58:03,875 - api_server - ERROR - 获取任务列表失败: [NETWORK_ERROR] 无法连接到服务器: http://localhost:40653
+2026-02-20 21:04:15,709 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:04:16,984 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:06:21,325 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:06:33,554 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:06:48,552 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:06:58,111 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:07:31,714 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:07:33,832 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:07:41,064 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:07:55,759 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:23:08,590 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:23:13,310 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:23:33,254 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:23:43,216 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:25:32,034 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:25:58,238 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:33:38,151 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:33:50,998 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:33:57,268 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:58:21,095 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:58:36,268 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 21:58:44,947 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 09:31:04,822 - api_server - ERROR - 无法连接到NapCat-QCE服务器
+2026-02-21 09:31:11,273 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-02-21 09:31:34,232 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 09:31:43,792 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 09:31:46,361 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 09:42:36,155 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-02-21 09:42:52,520 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 09:45:45,659 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-02-21 09:45:58,753 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 09:55:26,637 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 09:55:49,047 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 09:56:04,433 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-02-22 10:19:12,329 - api_server - INFO - 成功连接到NapCat-QCE服务器
+2026-02-22 10:27:40,923 - api_server - WARNING - 删除任务原始文件失败: [NOT_ZIP_EXPORT] 该任务不是ZIP导出，无需删除原始文件
+2026-02-22 10:31:58,832 - api_server - WARNING - 删除任务原始文件失败: [NOT_ZIP_EXPORT] 该任务不是ZIP导出，无需删除原始文件

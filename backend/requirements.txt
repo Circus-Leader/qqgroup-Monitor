@@ -1,0 +1,19 @@
+# QQ 群消息分析器 —— 后端依赖
+# 安装：pip install -r requirements.txt
+#
+# 说明：本项目在 Windows + Python 3.13 下开发验证。
+# 如需完全复现环境，可将以下下限替换为 pip freeze 得到的精确版本。
+
+# --- Web 服务（API 模式）---
+fastapi>=0.110.0
+uvicorn>=0.27.0
+pydantic>=2.5.0
+
+# --- NapCat-QCE SDK 的 HTTP 通信 ---
+requests>=2.31.0
+
+# --- 中文分词与新词发现 ---
+jieba>=0.42.1
+
+# --- 大模型调用（OpenAI 兼容接口，默认 DeepSeek）---
+openai>=1.0.0

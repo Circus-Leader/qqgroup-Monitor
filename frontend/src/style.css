@@ -1,0 +1,146 @@
+/* 全局样式 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "思源黑体 CN BOLD", "Source Han Sans CN Bold", sans-serif;
+  background-color: #FBFBFB;
+  color: #333;
+}
+
+/* 布局容器 */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* 导航栏 */
+.navbar {
+  position: sticky;
+  top: 0;
+  height: 8.33vh; /* 12分之一的高度 */
+  background-color: #FFFFFF;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 16.67%; /* 两侧各留出六分之一的宽度 */
+}
+
+.nav-left {
+  display: flex;
+  align-items: center;
+  gap: 0em; /* 两个汉字的宽度作为间隔 */
+}
+
+.nav-right {
+  display: flex;
+  align-items: center;
+}
+
+/* 主体内容区域 */
+.main-content {
+  flex: 1;
+  padding: 0 16.67%; /* 两侧各留出六分之一的宽度 */
+  overflow-y: auto;
+}
+
+/* 页面容器 */
+.page-container {
+  width: 100%;
+  padding: 20px 0;
+  min-height: calc(100vh - 8.33vh);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+/* 登录框样式 */
+.login-box {
+  width: 400px;
+  padding: 30px;
+  background-color: #FFFFFF;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.login-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.login-subtitle {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.qr-code-container {
+  width: 250px;
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+
+/* 在线状态指示器 */
+.online-indicator {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.online-dot {
+  width: 8px;
+  height: 8px;
+  background-color: #52c41a;
+  border-radius: 50%;
+}
+
+/* 按钮样式 */
+.nav-button {
+  background: none;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 8px 16px;
+  border-radius: 4px;
+  transition: all 0.3s;
+}
+
+.nav-button:hover {
+  background-color: #f0f0f0;
+}
+
+.nav-button.active {
+  color: #409eff;
+  font-weight: bold;
+}
+
+/* 加载状态 */
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.error-message {
+  color: #f56c6c;
+  text-align: center;
+  padding: 20px;
+}
